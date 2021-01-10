@@ -109,6 +109,30 @@ body {
     transition: 1s;
   }
 }
+@media (min-width: 500px) {
+  header i.material-icons {
+    display: none;
+  }
+  header nav {
+    position: initial;
+
+    width: 50%;
+    height: 2rem;
+  }
+  header nav ul {
+    opacity: 1;
+    flex-direction: row;
+
+    height: 100%;
+    width: 100%;
+
+    align-items: center;
+    justify-content: space-between;
+  }
+  header nav ul li + li {
+    margin: 0;
+  }
+}
 
 /* * MAIN STYLE */
 @media (min-width: 300px) {
@@ -213,6 +237,59 @@ body {
 
     width: 12rem;
     padding-bottom: 1rem;
+  }
+}
+@media (min-width: 500px) {
+  main {
+    margin-bottom: 2rem;
+  }
+  section .info-section h1 {
+    /* font-size: 2rem; */
+    font-size: 3rem;
+
+    /* margin-bottom: 1.55rem; */
+    margin-bottom: 2rem;
+  }
+  section .info-section p {
+    font-size: 1.35rem;
+    line-height: 2rem;
+
+    width: 22rem;
+    margin-bottom: 2rem;
+  }
+  section .info-section a {
+    font-size: 1.35rem;
+  }
+  section .design-section {
+    margin-top: 3rem;
+    height: 40rem;
+  }
+  section .designed-by {
+    width: 30rem;
+    height: 15rem;
+  }
+  section .designed-by div {
+    padding-left: 1.8rem;
+  }
+  section .designed-by .designed-by-info div {
+    padding-left: 1.5rem;
+  }
+  section .designed-by .designed-by-info img {
+    width: 5rem;
+    height: 5rem;
+  }
+  section .designed-by .designed-by-info div strong {
+    font-size: 1.2rem;
+  }
+  section .designed-by .designed-by-info div span {
+    font-size: 1rem;
+  }
+  section .designed-by div p {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+
+    width: 20rem;
+    padding-bottom: 2rem;
   }
 }
 
