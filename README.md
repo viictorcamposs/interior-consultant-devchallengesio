@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Consultant Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-victor.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/viictorcamposs/interior-consultant-devchallengesio}">
       Solution
     </a>
     <span> | </span>
@@ -36,32 +36,41 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![interior](https://user-images.githubusercontent.com/65051855/104138231-8e680380-5381-11eb-96f2-8c0353db2183.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<div>
+  <img src="https://user-images.githubusercontent.com/65051855/104138305-08988800-5382-11eb-849f-174d04c807a1.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/65051855/104138358-544b3180-5382-11eb-93e8-cfc7bdab9400.png" width="100" />
+</div>
 
-- Where can I see your demo?
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
+
+<!-- - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :) -->
+<br />
+<p>
+  It was a great experience for me to build this project. I was able to practice better positioning of the elements on the page, work responsiveness with mobile first and use JavaScript to animate the menu. 
+</p>
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- Responsive;
+- Animate with JavaScript;
+- Mobile First;
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 ## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
@@ -69,6 +78,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [LinkedIn](https://www.linkedin.com/in/camposviictor/)
+- GitHub [@viictorcamposs](https://github.com/viictorcamposs)
+- Twitter [@campossvictor](https://twitter.com/camposviictor)
