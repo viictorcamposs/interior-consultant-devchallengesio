@@ -39,8 +39,8 @@
 ![interior](https://user-images.githubusercontent.com/65051855/104138231-8e680380-5381-11eb-96f2-8c0353db2183.png)
 
 <div>
-  <img src="https://user-images.githubusercontent.com/65051855/104138305-08988800-5382-11eb-849f-174d04c807a1.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/65051855/104138358-544b3180-5382-11eb-93e8-cfc7bdab9400.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/65051855/104138305-08988800-5382-11eb-849f-174d04c807a1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/65051855/104138358-544b3180-5382-11eb-93e8-cfc7bdab9400.png" width="200" />
 </div>
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
