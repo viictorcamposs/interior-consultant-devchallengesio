@@ -133,6 +133,14 @@ body {
     margin: 0;
   }
 }
+@media (min-width: 1100px) {
+  header {
+    padding: 2.625rem 4.8125rem;
+  }
+  header nav {
+    width: 30rem;
+  }
+}
 
 /* * MAIN STYLE */
 @media (min-width: 300px) {
@@ -244,21 +252,18 @@ body {
     margin-bottom: 2rem;
   }
   section .info-section h1 {
-    /* font-size: 2rem; */
     font-size: 3rem;
-
-    /* margin-bottom: 1.55rem; */
     margin-bottom: 2rem;
   }
   section .info-section p {
     font-size: 1.35rem;
-    line-height: 2rem;
+    line-height: 1.875rem;
 
     width: 22rem;
     margin-bottom: 2rem;
   }
   section .info-section a {
-    font-size: 1.35rem;
+    font-size: 1.125rem;
   }
   section .design-section {
     margin-top: 3rem;
@@ -290,6 +295,79 @@ body {
 
     width: 20rem;
     padding-bottom: 2rem;
+  }
+}
+@media (min-width: 1000px) {
+  section {
+    height: 65vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    align-items: center;
+  }
+  section .info-section div {
+    align-items: flex-start;
+  }
+  section .info-section p {
+    font-size: 1.5rem;
+    width: 25rem;
+  }
+  section .design-section {
+    margin: 0;
+    height: 32rem;
+  }
+  section .design-section img {
+    width: 37.5rem;
+  }
+  section .designed-by {
+    width: 18.75rem;
+    height: 8.625rem;
+  }
+  section .designed-by div {
+    padding-left: 1.2rem;
+  }
+  section .designed-by .designed-by-info div {
+    padding-left: 0.75rem;
+  }
+  section .designed-by .designed-by-info img {
+    width: 3rem;
+    height: 3rem;
+  }
+  section .designed-by .designed-by-info div strong {
+    font-size: 0.75rem;
+  }
+  section .designed-by .designed-by-info div span {
+    font-size: 0.625rem;
+  }
+  section .designed-by div p {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+
+    width: 12rem;
+    padding-bottom: 0rem;
+  }
+}
+@media (min-width: 1100px) {
+  section {
+    padding: 0 4.8125rem;
+    align-items: flex-start;
+
+    height: 32rem;
+  }
+  section .designed-by {
+    width: 22.75rem;
+    height: 9.625rem;
+  }
+  section .designed-by div p {
+    padding-bottom: 2rem;
+  }
+}
+@media (min-width: 1400px) {
+  section .design-section {
+    height: 35rem;
+  }
+  section .design-section img {
+    width: 42rem;
   }
 }
 
